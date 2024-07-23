@@ -71,6 +71,7 @@ To get started with this project, follow the instructions below:
 ## Author
 
 Kankatala Hemanth 
+kankatalah1@gmail.com
 
 ## License
 
