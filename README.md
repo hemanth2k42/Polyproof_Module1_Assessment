@@ -63,7 +63,7 @@ To get started with this project, follow the instructions below:
 
 ## Approve and Deposit NFTs to Polygon Amoy
 
-1. Approve and deposit the minted NFTs from Ethereum to the Polygon Mumbai network using the FxPortal Bridge by running:
+1. Approve and deposit the minted NFTs from Ethereum to the Polygon Amoy network using the FxPortal Bridge by running:
    ```bash
    npx hardhat run scripts/approveDeposit.js --network Sepolia
    ```
