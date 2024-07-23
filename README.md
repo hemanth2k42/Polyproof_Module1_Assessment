@@ -65,7 +65,7 @@ To get started with this project, follow the instructions below:
 
 1. Approve and deposit the minted NFTs from Ethereum to the Polygon Amoy network using the FxPortal Bridge by running:
    ```bash
-   npx hardhat run scripts/approveDeposit.js --network Sepolia
+   npx hardhat run scripts/approvedDeposit.js --network sepolia
    ```
 
 ## Author
