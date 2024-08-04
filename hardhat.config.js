@@ -10,12 +10,12 @@ require("dotenv").config();
 module.exports = {
   solidity: "0.8.18",
   networks: {
-    sepolia: {
-      url: "https://rpc2.sepolia.org/",
+    amoy: {
+      url: "https://rpc-amoy.polygon.technology/",
       accounts: [process.env.PRIVATE_KEY],
     },
-    amoy: {
-      url: "https://rpc-amoy.polygon.technology/ ",
+    sepolia: {
+      url: "https://rpc2.sepolia.org/",
       accounts: [process.env.PRIVATE_KEY],
     },
   },
